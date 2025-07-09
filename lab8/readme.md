@@ -59,9 +59,9 @@ Use the displayed hostname value from the image and submit it using the lab’s 
 
 Here are some screenshots demonstrating the successful exploitation of the XXE via SVG image upload lab:
 
-![XXE](https://github.com/Kabilala/xxe/blob/main/lab8-1/lab8-1.png)
+![xxe](https://github.com/Kabilala/xxe/blob/main/lab8/lab8-1.png)
 
-![XXE](https://github.com/Kabilala/xxe/blob/main/lab8-2/lab8-2.png)
+![xxe](https://github.com/Kabilala/xxe/blob/main/lab8/lab8-2.png)
 
 ---
 
