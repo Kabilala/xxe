@@ -49,7 +49,7 @@ Content-Length: [XX]
 ```
 
 ---
-![XXE](www.githup.com/kabilala/xxe/lab1/lab1.png)
+![XXE](https://github.com/Kabilala/xxe/blob/main/lab1/lab1.png)
 
 ### 🧾 Server Response
 
