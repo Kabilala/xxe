@@ -97,4 +97,3 @@ To prevent this vulnerability in production systems:
 Cybersecurity Enthusiast | Pentest Learner | PortSwigger & TryHackMe Explorer
 [LinkedIn](https://www.linkedin.com/in/kaouthar-belkebir-ab453223b) | [Credly Certifications](https://www.credly.com/users/kawtar-belkebir)
 
-```
