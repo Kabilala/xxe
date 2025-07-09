@@ -1,6 +1,5 @@
-### 📁 `README.md` — XXE via External Entity (Apprentice)
+📁 `README.md` — XXE via External Entity (Apprentice)
 
-````markdown
 # 📄 Exploiting XXE Using External Entities to Retrieve Files
 
 **🧪 Lab Level:** Apprentice  
